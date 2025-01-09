@@ -6,12 +6,18 @@
 
 
 
+```
+$ git init
+```
+
+```
+$ git init
+```
 
 
-
-
-
-
+```javascript
+var myVar = "Hello, world!";
+```
 
 
 
